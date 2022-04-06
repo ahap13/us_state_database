@@ -1,5 +1,5 @@
 # us_state_database
-Menu-driven U.S. State database program.
+School Project -- Menu-driven U.S. State database program.
 
 Functionality includes displaying all 50 states with their respective capitals, populations, and state flowers.
 Another option allows user to search for a specific state and display all of the previous info while also launching a photo of the state flower.

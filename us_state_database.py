@@ -52,105 +52,105 @@ class State:
 
 # Declare Objects for Each State
 al = State("Alabama", "AL", "Montgomery", 4918689, "Camelia",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/AL_Camelia.jpeg")
+           r"State Flowers/AL_Camelia.jpeg")
 ak = State("Alaska", "AK", "Juneau", 727951, "Forget-Me-Not",
-           "/Users/alechapiak/Desktop/School/SDEV400/State Flowers/AK_ForgetMeNot.jpeg")
+           "State Flowers/AK_ForgetMeNot.jpeg")
 az = State("Arizona", "AZ", "Phoenix", 7399410, "Saguaro Cactus Blossom",
-           "/Users/alechapiak/Desktop/School/SDEV400/State Flowers/AZ_SaguaroCactusBlossom.jpeg")
+           "State Flowers/AZ_SaguaroCactusBlossom.jpeg")
 ar = State("Arkansas", "AR", "Little Rock", 3025875, "Apple Blossom",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/AR_AppleBlossom.jpeg")
+           r"State Flowers/AR_AppleBlossom.jpeg")
 ca = State("California", "CA", "Sacramento", 39562858, "California Poppy",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/CA_CaliforniaPoppy.jpeg")
+           r"State Flowers/CA_CaliforniaPoppy.jpeg")
 co = State("Colorado", "CO", "Denver", 5826185, "Rocky Mountain Columbine",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/CO_RockyMtnColumbine.jpeg")
+           r"State Flowers/CO_RockyMtnColumbine.jpeg")
 ct = State("Connecticut", "CT", "Hartford", 3559054, "Mountain Laurel",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/CT_MtnLaurel.jpeg")
+           r"State Flowers/CT_MtnLaurel.jpeg")
 de = State("Delaware", "DE", "Dover", 982049, "Peach Blossom",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/DE_PeachBlossom.jpeg")
+           r"State Flowers/DE_PeachBlossom.jpeg")
 fl = State("Florida", "FL", "Tallahassee", 21711157, "Orange Blossom",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/FL_OrangeBlossom.jpeg")
+           r"State Flowers/FL_OrangeBlossom.jpeg")
 ga = State("Georgia", "GA", "Atlanta", 10723715, "Cherokee Rose",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/GA_CherokeeRose.jpeg")
+           r"State Flowers/GA_CherokeeRose.jpeg")
 hi = State("Hawaii", "HI", "Honolulu", 1411151, "Yellow Hibiscus",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/HI_YellowHibiscus.jpeg")
+           r"State Flowers/HI_YellowHibiscus.jpeg")
 idaho = State("Idaho", "ID", "Boise", 1823594, "Syringa",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/ID_Syringa.jpeg")
+           r"State Flowers/ID_Syringa.jpeg")
 il = State("Illinois", "IL", "Springfield", 12620571, "Violet",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/IL_Violet.jpeg")
+           r"State Flowers/IL_Violet.jpeg")
 indiana = State("Indiana", "IN", "Indianapolis", 6768941, "Peony",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/IN_Peony.jpeg")
+           r"State Flowers/IN_Peony.jpeg")
 ia = State("Iowa", "IA", "Des Moines", 3161522, "Wild Rose",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/IN_WildRose.jpeg")
+           r"State Flowers/IN_WildRose.jpeg")
 ks = State("Kansas", "KS", "Topeka", 2915269, "Wild Native Sunflower",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/KS_WildNativeSunflower.jpeg")
+           r"State Flowers/KS_WildNativeSunflower.jpeg")
 ky = State("Kentucky", "KY", "Frankfort", 4474193, "Goldenrod",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/KY_Goldenrod.jpeg")
+           r"State Flowers/KY_Goldenrod.jpeg")
 la = State("Louisiana", "LA", "Baton Rouge", 4637898, "Magnolia",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/LA_Magnolia.jpeg")
+           r"State Flowers/LA_Magnolia.jpeg")
 me = State("Maine", "ME", "Augusta", 1349367, "White Pine Cone and Tassle",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/ME_WhitePineConeTassle.jpeg")
+           r"State Flowers/ME_WhitePineConeTassle.jpeg")
 md = State("Maryland", "MD", "Annapolis", 6055558, "Black-Eyed Susan",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/MD_BlackEyedSusan.jpeg")
+           r"State Flowers/MD_BlackEyedSusan.jpeg")
 ma = State("Massachusetts", "MA", "Boston", 6902371, "Mayflower",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/MA_Mayflower.jpeg")
+           r"State Flowers/MA_Mayflower.jpeg")
 mi = State("Michigan", "MI", "Lansing", 9989642, "Apple Blossom",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/MI_AppleBlossom.jpeg")
+           r"State Flowers/MI_AppleBlossom.jpeg")
 mn = State("Minnesota", "MN", "St. Paul", 5673015, "Pink and White Lady Slipper",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/MN_PinkWhiteLadySlipper.jpeg")
+           r"State Flowers/MN_PinkWhiteLadySlipper.jpeg")
 ms = State("Mississippi", "MS", "Jackson", 2971278, "Coreopsis",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/MS_Coreopsis.jpeg")
+           r"State Flowers/MS_Coreopsis.jpeg")
 mo = State("Missouri", "MO", "Jefferson City", 6153233, "White Hawthorn Blossom",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/MO_WhiteHawthornBlossom.jpeg")
+           r"State Flowers/MO_WhiteHawthornBlossom.jpeg")
 mt = State("Montana", "MT", "Helena", 1076891, "Bitterroot",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/MT_Bitterroot.jpeg")
+           r"State Flowers/MT_Bitterroot.jpeg")
 ne = State("Nebraska", "NE", "Lincoln", 1943202, "Goldenrod",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/NE_Goldenrod.jpeg")
+           r"State Flowers/NE_Goldenrod.jpeg")
 nv = State("Nevada", "NV", "Carson City", 3132971, "Sagebrush",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/NV_Sagebrush.jpeg")
+           r"State Flowers/NV_Sagebrush.jpeg")
 nh = State("New Hampshire", "NH", "Concord", 1365957, "Pink Lady Slipper",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/NH_PinkLadySlipper.jpeg")
+           r"State Flowers/NH_PinkLadySlipper.jpeg")
 nj = State("New Jersey", "NJ", "Trenton", 8878355, "Violet",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/NJ_Violet.jpeg")
+           r"State Flowers/NJ_Violet.jpeg")
 nm = State("New Mexico", "NM", "Santa Fe", 2100917, "Yucca",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/NM_Yucco.jpeg")
+           r"State Flowers/NM_Yucco.jpeg")
 ny = State("New York", "NY", "Albany", 19376771, "Rose",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/NY_Rose.jpeg")
+           r"State Flowers/NY_Rose.jpeg")
 nc = State("North Carolina", "NC", "Raleigh", 10594553, "Dogwood",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/NC_Dogwood.jpeg")
+           r"State Flowers/NC_Dogwood.jpeg")
 nd = State("North Dakota", "ND", "Bismarck", 766044, "Wild Prarie Rose",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/ND_WildPrarieRose.jpeg")
+           r"State Flowers/ND_WildPrarieRose.jpeg")
 oh = State("Ohio", "OH", "Columbus", 11701859, "White Trillium",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/OH_WhiteTrillium.jpeg")
+           r"State Flowers/OH_WhiteTrillium.jpeg")
 ok = State("Oklahoma", "OK", "Oklahoma City", 3973707, "Mistletoe",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/OK_Mistletoe.jpeg")
+           r"State Flowers/OK_Mistletoe.jpeg")
 oregon = State("Oregon", "OR", "Salem", 4253588, "Oregon Grape",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/OR_OregonGrape.jpeg")
+           r"State Flowers/OR_OregonGrape.jpeg")
 pa = State("Pennsylvania", "PA", "Harrisburg", 12803056, "Mountain Laurel",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/PA_MountainLaurel.jpeg")
+           r"State Flowers/PA_MountainLaurel.jpeg")
 ri = State("Rhode Island", "RI", "Providence", 1060435, "Violet",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/RI_Violet.jpeg")
+           r"State Flowers/RI_Violet.jpeg")
 sc = State("South Carolina", "SC", "Columbia", 5213272, "Yellow Jessamine",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/SC_YellowJessamine.jpeg")
+           r"State Flowers/SC_YellowJessamine.jpeg")
 sd = State("South Dakota", "SD", "Pierre", 890621, "American Pasque",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/SD_AmericanPasque.jpeg")
+           r"State Flowers/SD_AmericanPasque.jpeg")
 tn = State("Tennessee", "TN", "Nashville", 6886717, "Passionflower",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/TN_PassionFlower.jpeg")
+           r"State Flowers/TN_PassionFlower.jpeg")
 tx = State("Texas", "TX", "Austin", 29363096, "Ennis",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/TX_Ennis.jpeg")
+           r"State Flowers/TX_Ennis.jpeg")
 ut = State("Utah", "UT", "Salt Lake City", 3258366, "Sego Lily",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/UT_SegoLily.jpeg")
+           r"State Flowers/UT_SegoLily.jpeg")
 vt = State("Vermont", "VT", "Montpelier", 623620, "Red Clover",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/VT_Clover.jpeg")
+           r"State Flowers/VT_Clover.jpeg")
 va = State("Virginia", "VA", "Richmond", 8569752, "American Dogwood",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/VA_AmericanDogwood.jpeg")
+           r"State Flowers/VA_AmericanDogwood.jpeg")
 wa = State("Washington", "WA", "Olympia", 7705917, "Coast Rhododendron",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/WA_CoastRhododendron.jpeg")
+           r"State Flowers/WA_CoastRhododendron.jpeg")
 wv = State("West Virginia", "WV", "Charleston", 1780003, "Rhododendron",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/WV_Rhododendron.jpeg")
+           r"State Flowers/WV_Rhododendron.jpeg")
 wi = State("Wisconsin", "WI", "Madison", 5837462, "Wood Violet",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/WI_WoodViolet.jpeg")
+           r"State Flowers/WI_WoodViolet.jpeg")
 wy = State("Wyoming", "WY", "Cheyenne", 579917, "Indian Paintbrush",
-           r"/Users/alechapiak/Desktop/School/SDEV400/State Flowers/WY_IndianPaintbrush.jpeg")
+           r"State Flowers/WY_IndianPaintbrush.jpeg")
 
 # List Containing All States
 states = [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, idaho, il, indiana, ia, ks,
